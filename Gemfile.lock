@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    optimist (3.0.1)
+    paint (2.2.1)
+    tty-cursor (0.7.1)
+    tty-screen (0.8.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  optimist
+  paint
+  tty-cursor
+  tty-screen
+
+BUNDLED WITH
+   2.1.4
